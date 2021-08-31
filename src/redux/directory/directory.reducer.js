@@ -1,7 +1,7 @@
 const INITIAL_STATE = {
     sections :  [
         {
-          title: 'hats',
+          title: 'hats1111',
           imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
           id: 1,
           linkUrl: 'shop/hats'
