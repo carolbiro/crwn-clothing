@@ -24,6 +24,7 @@ const App = () => {
 
   return (
     <div>
+      Test
       <Header />
       <Switch>
         <Route exact path='/' component={HomePage}/>
